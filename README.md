@@ -84,7 +84,7 @@ Smart Recon is an advanced reconnaissance engine that crawls web applications to
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/M-Abdullah-lab/smart-recon.git
+git clone https://github.com/M-Abdullah-lab/SmartReconMapper.git
 cd smart-recon
 ```
 
