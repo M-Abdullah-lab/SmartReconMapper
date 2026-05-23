@@ -2,7 +2,7 @@
 
 A powerful, intelligent web reconnaissance tool designed for security researchers, penetration testers, and security professionals to identify and analyze exposed endpoints, vulnerable paths, and potential attack vectors on target websites.
 
-![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Python Version](https://img.shields.io/badge/Python-3.1%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
