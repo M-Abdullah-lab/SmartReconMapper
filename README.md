@@ -79,7 +79,7 @@ Smart Recon is an advanced reconnaissance engine that crawls web applications to
 ## 🚀 Installation
 
 ### Prerequisites
-- Python 3.8 or higher
+- Python 3.1 or higher
 - pip (Python package manager)
 
 ### Step 1: Clone the Repository
