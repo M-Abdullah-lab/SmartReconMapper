@@ -8,24 +8,6 @@ A powerful, intelligent web reconnaissance tool designed for security researcher
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-  - [GUI Mode](#gui-mode)
-  - [CLI Mode](#cli-mode)
-- [Configuration](#configuration)
-- [How It Works](#how-it-works)
-- [Architecture](#architecture)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Disclaimer](#disclaimer)
-
----
-
 ## 📖 Overview
 
 Smart Recon is an advanced reconnaissance engine that crawls web applications to discover endpoints, analyze security risks, and prioritize targets for further investigation. It combines intelligent web crawling, risk scoring algorithms, and smart prioritization to help security professionals identify the most critical attack surface areas.
