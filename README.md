@@ -328,9 +328,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 🙋 Support & Questions
 
-- 📧 **Email**: yourname@example.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/smart-recon/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/smart-recon/discussions)
+- 📧 **Email**: mabdullah.sec@protonmail.com
+- 🐛 **Issues**: [GitHub Issues](https://github.com/M-Abdullah-lab/smart-recon/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/M-Abdullah-lab/smart-recon/discussions)
 
 ---
 
@@ -359,7 +359,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 👥 Authors
 
-- **[Your Name]** - Initial development and architecture
+- **Muhammad Abdullah** - Cyber security Engineer and Bug Bounty Hunter
 
 ---
 
