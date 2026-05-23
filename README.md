@@ -326,14 +326,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 🙋 Support & Questions
-
-- 📧 **Email**: mabdullah.sec@protonmail.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/M-Abdullah-lab/smart-recon/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/M-Abdullah-lab/smart-recon/discussions)
-
----
-
 ## 🔐 Security Considerations
 
 - **Rate Limiting**: Default crawl delay is 0.6s to be respectful to target servers
@@ -360,6 +352,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 👥 Authors
 
 - **Muhammad Abdullah** - Cyber security Engineer and Bug Bounty Hunter
+- **Email** mabdullah.sec@protonmail.com
 
 ---
 
