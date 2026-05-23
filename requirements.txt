@@ -1,0 +1,19 @@
+# Smart Recon & Attack Surface Mapper - Requirements
+# Install with: pip install -r requirements.txt
+
+# Core HTTP & Web Scraping
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+
+# Standard Library (included with Python)
+# tkinter (GUI - comes with Python)
+# urllib (URL parsing - standard library)
+# threading (multi-threading - standard library)
+# csv (data export - standard library)
+# json (data export - standard library)
+# heapq (priority queue - standard library)
+# collections (deque - standard library)
+# datetime (timestamps - standard library)
+# queue (thread-safe queues - standard library)
+# warnings (error suppression - standard library)
+# os, sys (system utilities - standard library)
